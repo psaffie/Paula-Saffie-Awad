@@ -40,7 +40,8 @@ All data was using release 5 GP2 data (access-controlled via single-sign on on a
 |:----------------:|:--------------------------------------------------------------------------------------------------------------------:|
 |        00_PRS_release5_relatedness   | Estimate relatedness (filter for second-degree relationships) |
 |        01_PRS_release5_summary_stats_meta  | Generate additive summary statistics for meta-GWASes with META (Base Data) Meta-GWAS #1: EAS (Foo + 23andMe) Meta-GWAS #2 AMR (Loesch + 23andMe)|  
-|        05_AFR_AAC_Combined_META  | Meta-GWAS #3: Looking at African and African admixed individuals |
+|        02_PRS_release5_scores | Estimate Multi-ancestry PRS per ancestry|
+
 |        06_Investigate_Hits  | Investigating the top hits from the joint meta-GWAS |
 |        07_BetaBeta_Plots    | Generating beta-beta plots |
 |        08_Zygosity_rs3115534  | Get the zygosity distribution of individuals for rs3115534 |
