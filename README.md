@@ -40,16 +40,16 @@ All data was using release 5 GP2 data (access-controlled via single-sign on on a
 |:----------------:|:--------------------------------------------------------------------------------------------------------------------:|
 |        00_PRS_release5_relatedness   | Estimate relatedness (filter for second-degree relationships) |
 |        01_PRS_release5_summary_stats_meta  | Generate additive summary statistics for meta-GWASes with META (Base Data) Meta-GWAS #1: EAS (Foo + 23andMe) Meta-GWAS #2 AMR (Loesch + 23andMe)|  
-|        02_PRS_release5_scores | Estimate Multi-ancestry PRS per ancestry|
-
-|        06_Investigate_Hits  | Investigating the top hits from the joint meta-GWAS |
-|        07_BetaBeta_Plots    | Generating beta-beta plots |
-|        08_Zygosity_rs3115534  | Get the zygosity distribution of individuals for rs3115534 |
-|        09_Manhattan_QQ_Plots  | Visualize the meta-GWASes |
-|        10_Compare_GWASes_NallsFooKim | Seeing the number of variants from the previously identified 104 that show up in our meta-GWAS |
-|        11_PRS_Nalls2019_90_EUR-GLM  | Conducting PRS on cohorts: Pulling the 90 European variants from Nalls et al., 2019 and using European betas |
-|        12_PRS_23andMe_90_EUR-GLM  | Conducting PRS on cohorts: Pulling the 90 European variants from Nalls et al., 2019 and using AAC betas from 23andMe summary statistics |
-|        13_adHoc_Analyses | Runs of homozygosity, linear regression for % admixture and age, haplotypes with 1KG, fine-mapping, dominant vs recessive modeling, annotating WGS for T2, conditional analysis, Miami plot compared to Europeans, and GBA Gauchian caller WDL |
+|        02_PRS_release5_scores | Estimate Multi-ancestry PRS per ancestry (AAC, AFR, AJ, AMR, CAS, EAS, EUR)|
+|        03_baseline_PRS_release5_regression_risk  | Estimate Multi-ancestry PRS versus PD risk per ancestry|
+|        04_PCs_PRS_release5_regression_risk  | Estimate Multi-ancestry PRS versus PD risk adjusted by covariates per ancestry (age, gender, PCs)|
+|        05_admixture_PRS_release5_regression_risk  | Estimate Multi-ancestry PRS versus PD risk adjusted by covariates per ancestry (age, gender, % admixture)|
+|        06_data_visualization | Generating density, forest, ROH plots per ancestry|
+|        07_PRS_release5_regression_age_at_onset    | Estimate Multi-ancestry PRS versus age at onset |
+|        08_Specificity_Sensitivity  | Estimate Specificity and Sensitivity |
+|        09_PRS_release5_Table1 | Generate Table 1 |
+|        10_PRS_release5_power_calculations_age_at_onset.R | Estimate power for age at onset |
+|        11_PRS_release5_power_calculations_disease_status.R | Estimate power for disease status |
 
 ---
 ### Figures and Supplemental Figures
