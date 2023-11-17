@@ -38,9 +38,12 @@ All data was using release 5 GP2 data (access-controlled via single-sign on on a
 
 | **Notebooks** |                                                    **Description**                                                   |
 |:----------------:|:--------------------------------------------------------------------------------------------------------------------:|
-|        00_Prepping_Data    | Cleaning data and generating covariate files |
-|        01_perGroup_GWASes  | Running GWASes per group (no indels, age, sex, PCs 1-10 as covariates) |
+|        00_PRS_release5_relatedness   | Estimate relatedness(filter for second-degree relationships |
+|        01_PRS_release5_summary_stats_meta  | Generate additive summary statistics for meta-GWASes with META (Base Data)    
+                                                                                        Meta-GWAS #1: EAS (Foo + 23andMe)
+                                                                                        Meta-GWAS #2 AMR (Loesch + 23andMe) |
 |        02_formatMETAL      | Format additive summary statistics for meta-GWASes with METAL |
+Estimate Multi-ancestry PRS profiles
 |        03_AAC_ONLY_META    | Meta-GWAS #1: Looking at African admixed individuals only |
 |        04_AFR_ONLY_META    | Meta-GWAS #2: Looking at African individuals only |
 |        05_AFR_AAC_Combined_META  | Meta-GWAS #3: Looking at African and African admixed individuals |
