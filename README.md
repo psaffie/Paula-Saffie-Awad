@@ -65,7 +65,7 @@ All data was using release 5 GP2 data (access-controlled via single-sign on on a
 
 # Software 
                              
-|               Software              |      Version(s)     |                       Resource URL                       |       RRID      |                                               Notes                                               
+|               Software              |      Version(s)     |                       Resource URL                       |       RRID      |                                               Notes                                 |                                              
 |:-----------------------------------:|:-------------------:|:--------------------------------------------------------:|:---------------:|:------------------------------------------------------------------------------------:|
 
 |                METAL                |      2020-05-05     |         http://csg.sph.umich.edu//abecasis/Metal/        | RRID:SCR_002013 |                                       used for meta-analyses                          
