@@ -48,8 +48,8 @@ All data was using release 5 GP2 data (access-controlled via single-sign on on a
 |        07_PRS_release5_regression_age_at_onset    | Estimate Multi-ancestry PRS versus age at onset |
 |        08_Specificity_Sensitivity  | Estimate Specificity and Sensitivity |
 |        09_PRS_release5_Table1 | Generate Table 1 |
-|        10_PRS_release5_power_calculations_age_at_onset.R | Estimate power for age at onset |
-|        11_PRS_release5_power_calculations_disease_status.R | Estimate power for disease status |
+|        10_PRS_release5_power_calculations_age_at_onset.R | Estimate power for PRS for age at onset |
+|        11_PRS_release5_power_calculations_disease_status.R | Estimate power for PRS for disease status |
 
 ---
 ### Figures and Supplemental Figures
