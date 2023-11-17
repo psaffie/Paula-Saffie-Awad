@@ -7,7 +7,8 @@
 **Last Updated:** November 2023 
 
 ## Summary
-This is the online repository for the manuscript titled ***"Evaluating the performance of polygenic risk scoring across diverse ancestry populations in Parkinson's disease"***. This study aims to evaluate the multi-ancestry performance of predictive polygenic risk score (PRS) models using the 90 risk variants across 78 independent loci previously linked to Parkinson’s disease (PD) risk in the European population.
+This is the online repository for the manuscript titled ***"Evaluating the performance of polygenic risk scoring across diverse ancestry populations in Parkinson's disease"***.
+This study aims to evaluate the multi-ancestry performance of predictive polygenic risk score (PRS) models using the 90 risk variants across 78 independent loci previously linked to Parkinson’s disease (PD) risk in the European population.
 
 ### Data Statement 
 All data was using release 5 GP2 data (access-controlled via single-sign on on amp-pd.org) and 23andMe GWAS summary statistics (available via collaboration with 23andMe).
@@ -21,7 +22,8 @@ All data was using release 5 GP2 data (access-controlled via single-sign on on a
 
 
 # Workflow Diagram 
-![Workflow Diagram](https://github.com/GP2code/GP2-AFR-AAC-metaGWAS/blob/main/figures/F1_Workflow.png)
+![Workflow Diagram](https://github.com/GP2code/GP2-AFR-AAC-metaGWAS/blob/main/figures/PRS_Fig_1.png)
+
 
 
 
