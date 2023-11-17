@@ -2,18 +2,18 @@
 
 `GP2 ❤️ Open Science 😍`
 
-[![DOI](https://zenodo.org/badge/635483971.svg)](https://zenodo.org/badge/latestdoi/635483971)
+[![DOI](https://zenodo.org/)](https://zenodo.org/)
 
-**Last Updated:** April 2023 
+**Last Updated:** November 2023 
 
 ## Summary
-This is the online repository for the manuscript titled ***"Genome-wide Association Identifies Novel Etiological Insights Associated with Parkinson’s Disease in African and African Admixed Populations"***. This study represents the first and largest genome-wide assessment of Parkinson’s disease in the African and African admixed populations. 
+This is the online repository for the manuscript titled ***"Evaluating the performance of polygenic risk scoring across diverse ancestry populations in Parkinson's disease"***. This study aims to evaluate the multi-ancestry performance of predictive polygenic risk score (PRS) models using the 90 risk variants across 78 independent loci previously linked to Parkinson’s disease (PD) risk in the European population.
 
 ### Data Statement 
 All data was using release 5 GP2 data (access-controlled via single-sign on on amp-pd.org) and 23andMe GWAS summary statistics (available via collaboration with 23andMe).
 
 ### Helpful Links 
-- [medRxiv pre-print (May 2023)](https://www.medrxiv.org/content/10.1101/2023.05.05.23289529v1)
+- [medRxiv pre-print (November 2023)](https://www.medrxiv.org)
 - [GP2 Website](https://gp2.org/)
     - [GP2 Cohort Dashboard](https://gp2.org/cohort-dashboard-advanced/)
 - [Introduction to GP2](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28494)
