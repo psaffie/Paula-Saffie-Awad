@@ -64,8 +64,11 @@ All data was using release 5 GP2 data (access-controlled via single-sign on on a
 ---
 
 # Software 
-                             
-|               Software              |      Version(s)     |                       Resource URL                       |       RRID      |                                               Notes                                 | |:-----------------------------------:|:-------------------:|:--------------------------------------------------------:|:---------------:|:-----------------------------------------------------------------------------------:|
-|                METAL                |      2020-05-05     |         http://csg.sph.umich.edu//abecasis/Metal/        | RRID:SCR_002013 |                                       used for meta-analyses                        | 
-|                PLINK                | 1.7 and 1.9 and 2.0 |            http://www.nitrc.org/projects/plink           | RRID:SCR_001757 |                                     used for genetic analyses                       | |     Python Programming Language     |     3.8 and 3.9     |                  http://www.python.org/                  | RRID:SCR_008394 | pandas; numpy; seaborn; matplotlib; statsmodel; for data wrangling/plotting/ana     | 
-| R Project for Statistical Computing |         4.2         |                 http://www.r-project.org/                | RRID:SCR_001905 | tidyverse; dplyr; tidyr; ggplot; data.table; used for general                       | 
+
+| Software                            | Version(s)         | Resource URL                                            | RRID           | Notes                                           |
+| ------------------------------------ | ------------------- | ------------------------------------------------------- | -------------- | ----------------------------------------------- |
+| METAL                               | 2020-05-05          | [http://csg.sph.umich.edu//abecasis/Metal/](http://csg.sph.umich.edu//abecasis/Metal/) | RRID:SCR_002013 | used for meta-analyses                           |
+| PLINK                               | 1.7 and 1.9 and 2.0 | [http://www.nitrc.org/projects/plink](http://www.nitrc.org/projects/plink)           | RRID:SCR_001757 | used for genetic analyses                        |
+| Python Programming Language         | 3.8 and 3.9         | [http://www.python.org/](http://www.python.org/)        | RRID:SCR_008394 | pandas; numpy; seaborn; matplotlib; statsmodel; used for general data wrangling/plotting/analyses |
+| R Project for Statistical Computing | 4.2                 | [http://www.r-project.org/](http://www.r-project.org/)  | RRID:SCR_001905 | tidyverse; dplyr; tidyr; ggplot; data.table; used for general data wrangling/plotting/analyses                   |
+
