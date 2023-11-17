@@ -67,9 +67,7 @@ All data was using release 5 GP2 data (access-controlled via single-sign on on a
 
 |               Software              |      Version(s)     |                       Resource URL                       |       RRID      |                                               Notes                                               |
 |:-----------------------------------:|:-------------------:|:--------------------------------------------------------:|:---------------:|:-------------------------------------------------------------------------------------------------:|
-|               ANNOVAR               |      2020-06-08     |        http://www.openbioinformatics.org/annovar/        | RRID:SCR_012821 |                refGene; avsnp150; ljb26_all; gnomad312_genome; used for annotation                |
-|                coloc                |       5.1.0.1       | https://cran.r-project.org/web/packages/coloc/index.html |       N/A       |                                  R package; used for fine-mapping                                 |
-|         GBA Gauchian caller         |        1.0.2        |           https://github.com/Illumina/Gauchian           |       N/A       |   Illumina's targeted variant caller for the GBA gene based on a whole-genome sequencing (WGS)    |
+
 |                METAL                |      2020-05-05     |         http://csg.sph.umich.edu//abecasis/Metal/        | RRID:SCR_002013 |                                       used for meta-analyses                                      |
 |                PLINK                | 1.7 and 1.9 and 2.0 |            http://www.nitrc.org/projects/plink           | RRID:SCR_001757 |                                     used for genetic analyses                                     |
 |     Python Programming Language     |     3.8 and 3.9     |                  http://www.python.org/                  | RRID:SCR_008394 | pandas; numpy; seaborn; matplotlib; statsmodel; used for general data wrangling/plotting/analyses |
