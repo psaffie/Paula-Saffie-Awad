@@ -1,4 +1,4 @@
-# Genome-wide Association Identifies Novel Etiological Insights Associated with Parkinson’s Disease in African and African Admixed Populations 
+# Evaluating the performance of polygenic risk scoring across diverse ancestry populations in Parkinson's disease 
 
 `GP2 ❤️ Open Science 😍`
 
